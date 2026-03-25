@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Apostila04.iml" filepath="$PROJECT_DIR$/Apostila04.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Sistema-livraria/Sistema-livraria.iml" filepath="$PROJECT_DIR$/Sistema-livraria/Sistema-livraria.iml" />
+      <module fileurl="file://$PROJECT_DIR$/calcular-media-aluno/calcular-media-aluno.iml" filepath="$PROJECT_DIR$/calcular-media-aluno/calcular-media-aluno.iml" />
     </modules>
   </component>
 </project>
